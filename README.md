@@ -81,55 +81,23 @@ I’m a passionate web developer with experience in building dynamic and respons
 
 ---
 
-## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=dark)
 ---
 
-## My GitHub Contributions
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ariyan6467&theme=dark&area=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 
 ---
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
-### [Project 1: E-Commerce Website](URL-to-repository)
-#### **Description**:
-An e-commerce website built with **React**, **Node.js**, and **MongoDB**. It supports user authentication, product management, and shopping cart functionality.
-- **Tech Stack:** React, Node.js, MongoDB, Express, Firebase
-- **Live Link:** [Live Demo](URL-to-demo)
-- **Dependencies:** react-router, jwt, mongoose, express, firebase
+[![EdTech_ACS_Clone](https://img.shields.io/badge/-EdTech--ACS--Clone-blue)](https://github.com/ariyan6467/EdTech_ACS_Clone)  
+[![assignment-9](https://img.shields.io/badge/-assignment--9-blue)](https://github.com/ariyan6467/assignment-9)  
+[![Rock-Paper-Scissors](https://img.shields.io/badge/-Rock--Paper--Scissors-blue)](https://github.com/ariyan6467/Rock-Paper-Scissors)  
+[![Tic_Tac_Toe_game](https://img.shields.io/badge/-Tic--Tac--Toe--game-blue)](https://github.com/ariyan6467/Tic_Tac_Toe_game)
 
-#### **How to run locally**:
-1. Clone the repository: `git clone https://github.com/[YourUsername]/e-commerce-website.git`
-2. Install dependencies: `npm install`
-3. Run the app: `npm start`
-
----
-
-### [Project 2: Blogging Platform](URL-to-repository)
-#### **Description**:
-A blogging platform that allows users to create, edit, and delete blog posts. Built with **React**, **Node.js**, and **MongoDB**.
-- **Tech Stack:** React, Node.js, MongoDB, JWT, Express
-- **Live Link:** [Live Demo](URL-to-demo)
-- **Dependencies:** react-router, jwt, mongoose, express
-
-#### **How to run locally**:
-1. Clone the repository: `git clone https://github.com/[YourUsername]/blogging-platform.git`
-2. Install dependencies: `npm install`
-3. Run the app: `npm start`
-
----
-
-### [Project 3: Personal Portfolio](URL-to-repository)
-#### **Description**:
-A personal portfolio built using **React** and **Tailwind CSS** to showcase my web development skills and projects.
-- **Tech Stack:** React, Tailwind CSS
-- **Live Link:** [Live Demo](URL-to-demo)
-- **Dependencies:** react-router, tailwindcss
 
 #### **How to run locally**:
 1. Clone the repository: `git clone https://github.com/[YourUsername]/personal-portfolio.git`

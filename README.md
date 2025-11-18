@@ -1,19 +1,47 @@
-![Banner Image](https://image.cdn2.seaart.me/2024-09-17/crkoemle878c73ev35i0/e0bcc753b299887d99a07d9445f84046_high.webp)
 
+<div align="center">
 
-# Hi 👋, I'm Nahian Jawad
-### Web Developer | Front-end & Back-end | React | Node.js | MongoDB
-
+# Hi 👋, I'm Nahian Jawad  
+### A passionate Full Stack Developer from Bangladesh  
 I’m a passionate web developer with experience in building dynamic and responsive web applications using a variety of modern technologies. I specialize in both front-end and back-end development, with a focus on performance and user experience.
+
+</div>
+
+
 
 ---
 
-## 🧑‍💻 About Me
-I am constantly learning and exploring new technologies to improve my skills. Currently, I am focusing on mastering **Node.js** and **Express.js** while building projects that help me expand my knowledge. I love solving complex problems and addicted to transforming ideas into real-world applications.
+<div align="center">
 
-- Exploring **Node.js** for server-side rendering.
-- Currently working on a **Programing-Hero Milestone-12** project with **React** and **MongoDB** ,**Node.js**.
-- Experimenting with **OpenAi's Codex** for rapid UI development.
+
+<table style="width:100%; display: flex; flex-wrap: wrap; justify-content: center;">
+  <tr style="width:100%; display: flex; justify-content: space-around;">
+   
+   <td style="flex: 1; padding: 10px; min-width: 300px; text-align: left;">
+   
+
+   <p><strong>Profile Views:</strong> ![Profile Views](https://img.shields.io/badge/Profile%20Views-2208-9b4dca?style=flat&logo=github&logoColor=white)</p>
+
+    
+   <ul>
+        <li>Exploring <strong>Node.js</strong> for server-side rendering.</li>
+        <li>Currently working on a <strong>Programing-Hero Milestone-12</strong> project with <strong>React</strong> and <strong>MongoDB</strong>, <strong>Node.js</strong>.</li>
+        <li>Experimenting with <strong>OpenAi's Codex</strong> for rapid UI development.</li>
+      </ul>
+
+  <p><strong>How to reach me: </strong><a href="mailto:nahainjawad4321@gmail.com">nahainjawad4321@gmail.com</a></p>
+    </td>
+
+   
+  <td style="flex: 1; padding: 10px; min-width: 300px;">
+      <img src="https://image.cdn2.seaart.me/2024-09-17/crkoemle878c73ev35i0/e0bcc753b299887d99a07d9445f84046_high.webp" alt="Banner Image" style="max-width:100%; height:auto;"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 
 ---
 ## 💻Languages and Tools:

@@ -15,11 +15,11 @@
 <div align="center">
 
 
-<table style="width:100%; display: flex; flex-wrap: wrap; justify-content: center;">
+<table border="0" cellpadding="10" cellspacing="0" style="width:100%; display: flex; flex-wrap: wrap; justify-content: center; border-collapse: collapse; ">
   <tr style="width:100%; display: flex; justify-content: space-around; flex-direction: column;">
 
   
-   <td style="flex: 1; padding: 10px; min-width: 300px; text-align: left;">
+   <td style="flex: 1; padding: 10px; min-width: 300px; text-align: left;border: none;">
 
  
 
@@ -29,7 +29,7 @@
 </p>
 
 
-  <ul>
+  <ul style="border: none;">
     <li>Exploring <strong>Node.js</strong> for server-side rendering.</li>
     <li>Currently working on a <strong>Programing-Hero Milestone-12</strong> project with <strong>React</strong> and <strong>MongoDB</strong>, <strong>Node.js</strong>.</li>
     <li>Experimenting with <strong>OpenAi's Codex</strong> for rapid UI development.</li>
@@ -42,7 +42,7 @@
     </td>
 
  
-  <td style="flex: 1; padding: 10px; min-width: 300px;">
+  <td style="flex: 1; padding: 10px; min-width: 300px; border: none;">
 <img src="https://image.cdn2.seaart.me/2025-11-18/d4dqg3te878c73f54740-4/8065dfab54d3a6294ad9072f0cffb051_high.webp" alt="Banner Image" style="max-width:100%; height:auto;"/>
 
   ### Full Stack Developer | React | Node.js | MongoDB

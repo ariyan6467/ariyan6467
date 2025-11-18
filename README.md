@@ -91,15 +91,6 @@ I’m a passionate web developer with experience in building dynamic and respons
 
 ---
 
-## Pinned Repositories
-[![EdTech_ACS_Clone](https://img.shields.io/badge/-EdTech--ACS--Clone-blue)](https://github.com/ariyan6467/EdTech_ACS_Clone)  
-[![assignment-9](https://img.shields.io/badge/-assignment--9-blue)](https://github.com/ariyan6467/assignment-9)  
-[![Rock-Paper-Scissors](https://img.shields.io/badge/-Rock--Paper--Scissors-blue)](https://github.com/ariyan6467/Rock-Paper-Scissors)  
-[![Tic_Tac_Toe_game](https://img.shields.io/badge/-Tic--Tac--Toe--game-blue)](https://github.com/ariyan6467/Tic_Tac_Toe_game)
-
-
-
----
 
 
 ## 🛠️ Current Activities:

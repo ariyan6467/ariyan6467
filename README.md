@@ -43,7 +43,7 @@
 
  
   <td style="flex: 1; padding: 10px; min-width: 300px;">
-      <img src="https://image.cdn2.seaart.me/2024-09-17/crkoemle878c73ev35i0/e0bcc753b299887d99a07d9445f84046_high.webp" alt="Banner Image" style="max-width:100%; height:auto;"/>
+<img src="https://image.cdn2.seaart.me/2025-11-18/d4dqg3te878c73f54740-4/8065dfab54d3a6294ad9072f0cffb051_high.webp" alt="Banner Image" style="max-width:100%; height:auto;"/>
 
   ### Full Stack Developer | React | Node.js | MongoDB
   </td>

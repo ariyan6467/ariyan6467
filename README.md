@@ -10,6 +10,8 @@ I’m a passionate web developer with experience in building dynamic and respons
 
 ---
 
+
+
 <div align="center">
 
 
@@ -44,10 +46,6 @@ I’m a passionate web developer with experience in building dynamic and respons
 </table>
 
 </div>
-
-
-
-
 --
 ## 💻Languages and Tools:
 
@@ -83,9 +81,16 @@ I’m a passionate web developer with experience in building dynamic and respons
 
 ---
 
-## 📊 GitHub Stats
+## Most Used Languages
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=dark)
+---
+
+## My GitHub Contributions
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ariyan6467&theme=dark&area=true)
+
+
 
 ---
 

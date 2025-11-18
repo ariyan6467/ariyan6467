@@ -28,11 +28,15 @@ I’m a passionate web developer with experience in building dynamic and respons
 
 </p>
 
-   <ul>
-        <li>Exploring <strong>Node.js</strong> for server-side rendering.</li>
-        <li>Currently working on a <strong>Programing-Hero Milestone-12</strong> project with <strong>React</strong> and <strong>MongoDB</strong>, <strong>Node.js</strong>.</li>
-        <li>Experimenting with <strong>OpenAi's Codex</strong> for rapid UI development.</li>
-      </ul>
+
+  <ul>
+    <li>Exploring <strong>Node.js</strong> for server-side rendering.</li>
+    <li>Currently working on a <strong>Programing-Hero Milestone-12</strong> project with <strong>React</strong> and <strong>MongoDB</strong>, <strong>Node.js</strong>.</li>
+    <li>Experimenting with <strong>OpenAi's Codex</strong> for rapid UI development.</li>
+    <li>Learning <strong>TypeScript</strong> to enhance JavaScript development skills.</li>
+    <li>Building a <strong>personal portfolio</strong> using <strong>Next.js</strong> and <strong>Tailwind CSS</strong>.</li>
+</ul>
+
 
   <p><strong>How to reach me: </strong><a href="mailto:nahainjawad4321@gmail.com">nahainjawad4321@gmail.com</a></p>
     </td>
@@ -40,7 +44,9 @@ I’m a passionate web developer with experience in building dynamic and respons
  
   <td style="flex: 1; padding: 10px; min-width: 300px;">
       <img src="https://image.cdn2.seaart.me/2024-09-17/crkoemle878c73ev35i0/e0bcc753b299887d99a07d9445f84046_high.webp" alt="Banner Image" style="max-width:100%; height:auto;"/>
-    </td>
+
+  ### Full Stack Developer | React | Node.js | MongoDB
+  </td>
 
   </tr>
 </table>
@@ -73,20 +79,14 @@ I’m a passionate web developer with experience in building dynamic and respons
 ## 📍 Location & Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahian-jawad-ariyan-28904b359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/iamnahianjawad?igsh=MWFiamMxaHNucGx5OA==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FfQZbECJE/)
 
-- **Location:** [Your Location]
-- **Email:** [Your Email]
-
----
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+- **Location:** [Chittagong Sadar,Chittagong,Bangladesh]
+- **Email:** [nahainjawad4321@gmail.com]
 
 ---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 
 ---
@@ -97,27 +97,25 @@ I’m a passionate web developer with experience in building dynamic and respons
 [![Rock-Paper-Scissors](https://img.shields.io/badge/-Rock--Paper--Scissors-blue)](https://github.com/ariyan6467/Rock-Paper-Scissors)  
 [![Tic_Tac_Toe_game](https://img.shields.io/badge/-Tic--Tac--Toe--game-blue)](https://github.com/ariyan6467/Tic_Tac_Toe_game)
 
----
-#### **How to run locally**:
-1. Clone the repository: `git clone https://github.com/[YourUsername]/personal-portfolio.git`
-2. Install dependencies: `npm install`
-3. Run the app: `npm start`
+
 
 ---
 
-## 🌐 Social Links
-- [LinkedIn](URL-to-LinkedIn)
-- [Twitter](URL-to-Twitter)
-- [GitHub](URL-to-GitHub)
-- [Website/Blog](URL-to-website)
-
----
 
 ## 🛠️ Current Activities:
-- Learning **Next.js** and **TypeScript** for full-stack development.
-- Contributing to open-source projects, particularly in the **React** ecosystem.
-- Working on improving my understanding of **GraphQL** and **Apollo**.
+- Learning **Node.js** and **MongoDb** for full-stack development.
+- Contributing to Milestone-10 projects, particularly in the **React** ecosystem.
+- Working on improving my understanding of **ProjectTheme** and **Algoridm**.
+
+---
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=dark)
+
 
 ---
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&hide_title=true&count_private=true&theme=dark)
+--
 Feel free to reach out if you want to collaborate or discuss web development ideas!

@@ -45,6 +45,12 @@
 </div>
 
 --
+
+About Me
+
+Hi there! 👋 I’m Nahian Jawad, a Full Stack Developer with a passion for building scalable and efficient web applications. I love turning ideas into real-world projects and solving complex problems with technology. My goal is to continuously improve my skills and contribute to meaningful projects, both individually and in collaboration with others.
+
+
 ## 💻Languages and Tools:
 
 <div align="center">

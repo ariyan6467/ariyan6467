@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Nahian Jawad  
 ### A passionate Full Stack Developer from Bangladesh  
-I’m a passionate web developer with experience in building dynamic and responsive web applications using a variety of modern technologies. I specialize in both front-end and back-end development, with a focus on performance and user experience.
+
 
 </div>
 

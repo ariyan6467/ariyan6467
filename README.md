@@ -101,7 +101,7 @@ Here are some of the projects I’m most proud of:
 
 - [**assignment-ten-client**](https://github.com/ariyan6467/assignment-ten-client) – AI model management dashboard built with **React + Vite**, routing, protected routes, and modern UI.  
 - [**assignment-9**](https://github.com/ariyan6467/assignment-9) – **React SPA** with routing, authentication wrapper, and Firebase hosting setup.  
-- [**Payoo-Mobile-BankingApp**](https://github.com/ariyan6467/Payoo-Mobile-BankingApp) – Frontend for a **mobile banking-style** web app using HTML, CSS, and JavaScript.  
+- [**assignment-eight**](https://github.com/ariyan6467/assignment-eight) – Frontend for a **mobile banking-style** web app using HTML, CSS, and JavaScript.  
 
 > Don’t forget to also pin these repositories on your GitHub profile settings so they show up as actual “Pinned Repositories”.
 

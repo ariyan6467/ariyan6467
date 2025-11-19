@@ -1,8 +1,4 @@
-<div align="center">
-  <!-- Banner Section -->
-  <img src="./assets/github-banner.png" alt="Nahian Jawad Ariyan - Full Stack Web Developer" style="width:100%; max-width:1200px; border-radius:8px;" />
-</div>
-
+![Banner Section](https://i.ibb.co.com/Wps0Sc4z/hey-i-am-a-ful-stack-web-developer-i-need-a-banner-image-to-attach-on-my-github-profile-my-name-is-N.jpg)
 <br />
 
 <div align="center">

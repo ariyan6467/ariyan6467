@@ -1,110 +1,108 @@
+<div align="center">
+  <!-- Banner Section -->
+  <img src="./assets/github-banner.png" alt="Nahian Jawad Ariyan - Full Stack Web Developer" style="width:100%; max-width:1200px; border-radius:8px;" />
+</div>
+
+<br />
 
 <div align="center">
 
-# Hi 👋, I'm Nahian Jawad  
-### A passionate Full Stack Developer from Bangladesh  
+# Hi 👋, I'm Nahian Jawad Ariyan  
+### Full Stack Web Developer  
 
+![Profile views](https://komarev.com/ghpvc/?username=ariyan6467&color=brightgreen)
 
 </div>
-
 
 ---
 
+## 👨‍💻 About Me
+
+I’m a Full Stack Web Developer from Bangladesh who enjoys turning ideas into functional, clean, and scalable web applications. I like working across the stack — from responsive UI to REST APIs and databases — and I’m constantly improving my skills with modern JavaScript frameworks and tools.
+
+### 🔥 What I’m Currently Doing
+
+- Exploring **Next.js** for building production-ready full stack apps.  
+- Building full stack projects with **React**, **Node.js**, and **MongoDB**.  
+- Learning **TypeScript** to write safer and more maintainable code.  
+- Working on a **personal portfolio** and polishing UI/UX with **Tailwind CSS**.  
+- Solving problems and practicing **JavaScript** fundamentals regularly.  
+
+---
+
+## 🧰 Tech Stack – Languages & Tools
 
 <div align="center">
 
-  <table cellpadding="10" cellspacing="0" style="width:100%; display: flex; flex-wrap: wrap; justify-content: center; border-collapse: collapse;">
-    <tr style="width:100%; display: flex; justify-content: space-around; flex-direction: column;">
+  <!-- Row 1 -->
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js" />
 
-     
-   <td style="flex: 1; padding: 10px; min-width: 300px; text-align: left; border: none;">
-
-  ## ![Profile views](https://komarev.com/ghpvc/?username=ariyan6467&color=brightgreen)
-
-   <ul>
-          <li>Exploring <strong>Node.js</strong> for server-side rendering.</li>
-          <li>Currently working on a <strong>Programing-Hero Milestone-12</strong> project with <strong>React</strong> and <strong>MongoDB</strong>, <strong>Node.js</strong>.</li>
-          <li>Experimenting with <strong>OpenAi's Codex</strong> for rapid UI development.</li>
-          <li>Learning <strong>TypeScript</strong> to enhance JavaScript development skills.</li>
-          <li>Building a <strong>personal portfolio</strong> using <strong>Next.js</strong> and <strong>Tailwind CSS</strong>.</li>
-        </ul>
-
-  <p><strong>How to reach me: </strong><a href="mailto:nahainjawad4321@gmail.com">nahainjawad4321@gmail.com</a></p>
-      </td>
-
-     
-   <td style="flex: 1; padding: 10px; min-width: 300px; border: none;">
-        <img src="https://image.cdn2.seaart.me/2025-11-18/d4dqg3te878c73f54740-4/8065dfab54d3a6294ad9072f0cffb051_high.webp" alt="Banner Image" style="max-width:100%; height:auto;"/>
-
-   <h3>Full Stack Developer | React | Node.js | MongoDB</h3>
-      </td>
-
-   </tr>
-  </table>
+  <!-- Row 2 -->
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase" />
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" />
 
 </div>
-
---
-
-About Me
-
-Hi there! 👋 I’m Nahian Jawad, a Full Stack Developer with a passion for building scalable and efficient web applications. I love turning ideas into real-world projects and solving complex problems with technology. My goal is to continuously improve my skills and contribute to meaningful projects, both individually and in collaboration with others.
-
-
-## 💻Languages and Tools:
-
-<div align="center">
-
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
-</div>
-
-
 
 ---
 
 ## 📍 Location & Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahian-jawad-ariyan-28904b359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahian-jawad-ariyan-28904b359)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FfQZbECJE/)
 
-- **Location:** [Chittagong Sadar,Chittagong,Bangladesh]
-- **Email:** [nahainjawad4321@gmail.com]
+- **Location:** Chittagong Sadar, Chittagong, Bangladesh  
+- **Email:** [nahainjawad4321@gmail.com](mailto:nahainjawad4321@gmail.com)
 
 ---
 
+## 🔭 Current Activities
 
-
-
----
-
-
-
-## 🛠️ Current Activities:
-- Learning **Node.js** and **MongoDb** for full-stack development.
-- Contributing to Milestone-10 projects, particularly in the **React** ecosystem.
-- Working on improving my understanding of **ProjectTheme** and **Algoridm**.
-
----
-## Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=dark)
-
+- Learning **Node.js** and **MongoDB** for full stack development.  
+- Working on **Programming Hero milestone projects** using **React**, **Node.js**, and **MongoDB**.  
+- Experimenting with **Next.js** + **Tailwind CSS** for a modern portfolio site.  
+- Improving problem-solving skills with **JavaScript** and **algorithms**.  
 
 ---
 
+## 📊 GitHub Stats & Streaks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&hide_title=true&count_private=true&theme=dark)
---
-Feel free to reach out if you want to collaborate or discuss web development ideas!
+<div align="center">
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+  <br /><br />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariyan6467&theme=dark" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=dark" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📌 Featured / Pinned Repositories
+
+Here are some of the projects I’m most proud of:
+
+- [**assignment-ten-client**](https://github.com/ariyan6467/assignment-ten-client) – AI model management dashboard built with **React + Vite**, routing, protected routes, and modern UI.  
+- [**assignment-9**](https://github.com/ariyan6467/assignment-9) – **React SPA** with routing, authentication wrapper, and Firebase hosting setup.  
+- [**Payoo-Mobile-BankingApp**](https://github.com/ariyan6467/Payoo-Mobile-BankingApp) – Frontend for a **mobile banking-style** web app using HTML, CSS, and JavaScript.  
+
+> Don’t forget to also pin these repositories on your GitHub profile settings so they show up as actual “Pinned Repositories”.
+
+---

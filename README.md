@@ -77,16 +77,17 @@ I’m a **Full Stack Web Developer** from Bangladesh who enjoys turning ideas in
 
 ## 📊 GitHub Stats & Streaks
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ariyan6467&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ariyan6467&theme=radical&border_radius=10" alt="GitHub Streak" height="170" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariyan6467&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=radical&border_radius=10" alt="Top Languages" height="200" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyan6467&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</p>
 
 ---
 
